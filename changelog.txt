@@ -1,0 +1,7 @@
+Changelog
+
+- Adding custom stuff
+- New mobs
+- Many items with Rarity
+- QoL Changes
+- That's it I guess..?
